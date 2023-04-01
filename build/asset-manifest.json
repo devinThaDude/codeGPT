@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1de5787d.css",
+    "main.js": "/static/js/main.19a4c8be.js",
+    "static/js/787.ad795743.chunk.js": "/static/js/787.ad795743.chunk.js",
+    "static/media/sprite_sheet_emojione.png": "/static/media/sprite_sheet_emojione.1512abd6db6257bc4693.png",
+    "static/media/fa-regular-400-min.woff2": "/static/media/fa-regular-400-min.2d3bd4fb365c47e2efaa.woff2",
+    "static/media/fa-brands-400-min.woff2": "/static/media/fa-brands-400-min.2012a9a8d4dfb5cc61c6.woff2",
+    "static/media/fa-solid-900-man.woff": "/static/media/fa-solid-900-man.113b6e4f8cd0f8f98ea6.woff",
+    "index.html": "/index.html",
+    "main.1de5787d.css.map": "/static/css/main.1de5787d.css.map",
+    "main.19a4c8be.js.map": "/static/js/main.19a4c8be.js.map",
+    "787.ad795743.chunk.js.map": "/static/js/787.ad795743.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1de5787d.css",
+    "static/js/main.19a4c8be.js"
+  ]
+}

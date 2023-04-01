@@ -1,0 +1,19 @@
+import React from 'react';
+
+const Header = () => {
+  return (
+    <header class="p-header" id="header">
+    <div class="p-header-inner">
+    <div class="p-header-content">
+    <div class="p-header-logo p-header-logo--image">
+    <a href="https://www.apparelafterlife.com">
+    <img src="assets/images/AE.png" srcset="" alt="Coding Forums" width="100" height="100"/>
+    </a><b>CODEGPTforums</b>
+    </div>
+    </div>
+    </div>
+    </header>
+  );
+};
+
+export default Header;
